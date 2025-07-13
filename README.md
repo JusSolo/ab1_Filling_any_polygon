@@ -2,4 +2,4 @@
 
 
 
-![Resultado de los polígonos rellenados](Figuras_rellenas.png)
+![Resultado de los polígonos rellenados](Fill_poly/Figuras_rellenas.png)
