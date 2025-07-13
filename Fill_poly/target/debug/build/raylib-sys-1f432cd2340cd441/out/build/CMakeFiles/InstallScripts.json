@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/build/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/build/raylib/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/build/raylib/external/glfw/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

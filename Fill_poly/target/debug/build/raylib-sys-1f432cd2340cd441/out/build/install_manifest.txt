@@ -1,0 +1,7 @@
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/lib/libraylib.a
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/include/raylib.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/include/rlgl.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/include/raymath.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/lib/pkgconfig/raylib.pc
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/lib/cmake/raylib/raylib-config-version.cmake
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/ab1_Filling_any_polygon/Fill_poly/target/debug/build/raylib-sys-1f432cd2340cd441/out/lib/cmake/raylib/raylib-config.cmake
