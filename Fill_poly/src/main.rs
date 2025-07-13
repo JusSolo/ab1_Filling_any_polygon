@@ -80,20 +80,6 @@ fn bounding_box(polygon: &Vec<(i32, i32)>) -> (i32, i32, i32, i32) {
 }
 
 fn main() {
-    let poligono1 = vec![
-        (165, 380),
-        (185, 360),
-        (180, 330),
-        (207, 345),
-        (233, 330),
-        (230, 360),
-        (250, 380),
-        (220, 385),
-        (205, 410),
-        (193, 383),
-    ];
-    let poligono2 = vec![(321, 335), (288, 286), (339, 251), (374, 302)];
-    let poligono3 = vec![(377, 249), (411, 197), (436, 249)];
     let poligono4 = vec![
         (413, 177),
         (448, 159),
@@ -127,14 +113,6 @@ fn main() {
     let mut image = Image::gen_image_color(width, height, Color::BLACK);
 
     // Dibujar y rellenar polígonos
-    draw_poli(&poligono1, &mut image, Color::BLUE);
-    fill_poli(&poligono1, &mut image, Color::BLUE, Color::SKYBLUE);
-
-    draw_poli(&poligono2, &mut image, Color::RED);
-    fill_poli(&poligono2, &mut image, Color::RED, Color::PINK);
-
-    draw_poli(&poligono3, &mut image, Color::GREEN);
-    fill_poli(&poligono3, &mut image, Color::GREEN, Color::LIME);
 
     draw_poli(&poligono4, &mut image, Color::YELLOW);
 
