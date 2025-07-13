@@ -117,7 +117,7 @@ fn main() {
         d.clear_background(Color::WHITE);
         d.draw_texture(&texture, 0, 0, Color::WHITE);
     }
-    let output_file_name = "Figuras_rellenas.png";
+    let output_file_name = "out.bmp";
     image.export_image(output_file_name);
 
     println!("Imagen guardada con éxito como '{}'!", output_file_name);
